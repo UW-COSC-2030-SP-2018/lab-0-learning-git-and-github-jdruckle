@@ -7,4 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-![Completion](https://imgur.com/THi0KWE)
+![Imgur](https://i.imgur.com/THi0KWE.png)
